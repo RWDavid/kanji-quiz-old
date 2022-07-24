@@ -1,6 +1,6 @@
-# kanji-quiz
+# kanji-quiz (old)
 
-https://rwdavid.github.io/kanji-quiz/
+https://rwdavid.github.io/kanji-quiz-old/
 
 Minimal web app that temporarily shows kanji characters of increasing stroke counts.
 
